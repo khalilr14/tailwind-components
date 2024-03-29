@@ -1,0 +1,15 @@
+{
+  "name": "khalilr14",
+  "version": "1.0.0",
+  "description": "I'm Khalil Ramzy Nasution, and I attend the University of North Sumatra to study Information Technology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
