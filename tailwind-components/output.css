@@ -741,10 +741,6 @@ video {
   margin-top: 0.5rem;
 }
 
-.mt-20 {
-  margin-top: 5rem;
-}
-
 .mt-28 {
   margin-top: 7rem;
 }
@@ -755,6 +751,10 @@ video {
 
 .mt-7 {
   margin-top: 1.75rem;
+}
+
+.mt-20 {
+  margin-top: 5rem;
 }
 
 .box-border {
@@ -880,10 +880,6 @@ video {
   height: 100vh;
 }
 
-.w-5 {
-  width: 1.25rem;
-}
-
 .w-\[this-is\\\\\] {
   width: this-is\\;
 }
@@ -902,6 +898,10 @@ video {
 
 .w-screen {
   width: 100vw;
+}
+
+.w-5 {
+  width: 1.25rem;
 }
 
 .flex-shrink {
@@ -2168,11 +2168,6 @@ video {
   vertical-align: super;
 }
 
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -2186,6 +2181,11 @@ video {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .font-bold {
